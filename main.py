@@ -137,7 +137,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
             birthdays[k] = v
     data = {
         "touser": to_user,
-        "template_id": config["template_id"],
+        "template_id": config[ty4vUCPVOmXb1IxH-nIou9udwH4H-IOiz4bI5QdBaw],
         "url": "http://weixin.qq.com/download",
         "topcolor": "#FF0000",
         "data": {
